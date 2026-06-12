@@ -39,6 +39,7 @@ Vrinda-Store-Sales-Analysis/
 │── Cleaned_Data_Analysis..xlsx
 │── Sales_Dashboard.png
 │── Excel_Data_Analysis_Report.pdf
+│── Sales-Data-Analysis_Presenatation.pptx
 │── README.md
 ```
 
@@ -104,7 +105,9 @@ To improve Vrinda Store sales:
 ---
 
 ## 📸 Dashboard Preview
-(Add dashboard screenshot here)
+<p align="center">
+  <img src="Sales_Dashboard.png" alt="Vrinda Store Dashboard" width="100%">
+</p>
 
 ---
 
